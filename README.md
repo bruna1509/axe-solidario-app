@@ -1,7 +1,7 @@
-# 🕊️ Machado Solidário - Gestão de Doações
+# 🕊️ Axé Solidário - Gestão de Doações
 
 ## 📌 Visão Geral
-Este projeto é uma **Atividade de Extensão Universitária (Wyden)** para a disciplina de Programação para Dispositivos Móveis em Android.
+Este projeto é uma **Atividade de Extensão Universitária (Centro Universitário UniRuy Wyden)** para a disciplina de Programação para Dispositivos Móveis em Android.
 
 O objetivo é organizar a campanha de arrecadação de alimentos de um Terreiro em Salvador-BA. O app permite que os consulentes saibam exatamente quais alimentos estão em falta para completar as cestas básicas das famílias assistidas.
 
