@@ -6,9 +6,10 @@ Este projeto é uma **Atividade de Extensão Universitária (Centro Universitár
 O objetivo é organizar a campanha de arrecadação de alimentos de um Terreiro em Salvador-BA localizado no bairro da Boca do Rio chamado Centro de Umbanda Caboclo Taperoá. O aplicativo permite que os consulentes saibam exatamente quais alimentos estão em falta para completar as cestas básicas das famílias que fazem parte do programa de cestas básicas.
 
 ## 📱 Funcionalidades Planejadas
-* **Barra de Progresso:** Visualização do quanto falta para atingir a meta mensal de arrecadação para montagem das cestas pela quantidade de familias inscritas. 
+* **Barra de Progresso:** Monitoramento da meta mensal baseada no número de famílias inscritas.
 * **Lista de Prioridades:** Itens que faltam para complementar as cestas (Ex: Arroz, Feijão, Óleo).
-* **Transparência:** Informações sobre datas de entrega das cestas, coleta dos alimentos em reuniões festivas e cupom de 15% para consulentes que doarem a cesta completa utilizar em atividades do terreiro. 
+* **Transparência:** Informações sobre datas de reuniões festivas e coletas.
+* **Benefício:** Geração de cupom de 15% de desconto em atividades do terreiro para consulentes que doarem a cesta completa.
 
 ## 🛠️ Tecnologias
 * **IDE:** Android Studio
